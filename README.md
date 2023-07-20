@@ -1,6 +1,6 @@
 ## Trading Journal
 
-Trading Journal
+![](./example_2.png)
 
 ## Description
 
